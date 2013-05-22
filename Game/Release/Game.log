@@ -1,0 +1,6 @@
+﻿  Main.cpp
+Main.cpp(185): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Main.cpp(186): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Main.cpp(190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Main.cpp(190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'sfml-graphic.lib'

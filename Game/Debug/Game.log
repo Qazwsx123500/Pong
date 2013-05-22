@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(185): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(186): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(190): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(229): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(230): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(237): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\qaz\documents\visual studio 2010\projects\game\game\main.cpp(238): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\Qaz\documents\visual studio 2010\Projects\Game\Debug\Game.exe not found or not built by the last incremental link; performing full link
+  Game.vcxproj -> C:\Users\Qaz\documents\visual studio 2010\Projects\Game\Debug\Game.exe
